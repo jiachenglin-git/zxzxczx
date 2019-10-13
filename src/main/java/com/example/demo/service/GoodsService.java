@@ -8,4 +8,9 @@ public interface GoodsService {
 
 	List<Goods> getGoodsList(   );
 
+	
+	
+	
+	
+	
 }
