@@ -6,6 +6,6 @@ import com.example.demo.bean.Goods;
 
 public interface GoodsService {
 
-	List<Goods> getGoodsList();
+	List<Goods> getGoodsList(   );
 
 }
